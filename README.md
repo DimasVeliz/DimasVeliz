@@ -38,7 +38,8 @@
 <br />
 
 ---
-<p align="left"><b>GitHub Stats - Estadísticas</b></p>
+## GitHub Stats 
+<br />
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DimasVeliz&count_private=true&show_icons=true&hide_border=true" alt="DimasVeliz" /> </p>
 
