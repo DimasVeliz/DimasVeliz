@@ -38,6 +38,10 @@
 <br />
 
 ---
+<p align="left"><b>GitHub Stats - Estadísticas</b></p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DimasVeliz&count_private=true&show_icons=true&hide_border=true" alt="DimasVeliz" /> </p>
+
 
 [work_website]: https://fdna.com/
 [website]: https://github.com/alfa-coding
