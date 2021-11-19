@@ -1,6 +1,6 @@
 ## Hi there, Dimas here.
 ### A programmer working at [FDNA][work_website] during the day
-### A teacher crafting programing course at night on [Alfa-coding][website] 👋
+### A teacher crafting programing courses at night on [Alfa-coding][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DreamOnShadows?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDreamOnShadows&screen_name=DreamOnShadows)
 
