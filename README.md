@@ -1,5 +1,5 @@
 ## Hi there, Dimas here.
-### A programmer working at [FDNA][work_website] during the day
+### A programmer working at [Almato][work_website] during the day
 ### A teacher crafting programing courses at night on [Alfa-coding][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DreamOnShadows?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDreamOnShadows&screen_name=DreamOnShadows)
@@ -44,6 +44,6 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DimasVeliz&count_private=true&show_icons=true&hide_border=true" alt="DimasVeliz" /> </p>
 
 
-[work_website]: https://fdna.com/
+[work_website]: https://www.almato.com/
 [website]: https://github.com/alfa-coding
 [twitter]: https://twitter.com/DreamOnShadows
