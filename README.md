@@ -44,5 +44,12 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DimasVeliz&count_private=true&show_icons=true&hide_border=true" alt="DimasVeliz" /> </p>
 
+### **Personal Statistics**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DimasVeliz&show_icons=true&locale=en&layout=compact" alt="DimasVeliz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DimasVeliz&show_icons=true&locale=en" alt="DimasVeliz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DimasVeliz&" alt="DimasVeliz" /></p>
+
+
 [website]: https://github.com/alfa-coding
 [twitter]: https://twitter.com/DreamOnShadows
